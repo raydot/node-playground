@@ -1,3 +1,6 @@
+// FROM 7 Simple But Tricky Javascript Interview Questions
+// https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions
+
 // ACCIDENTAL GLOBAL
 function foo() {
   let a = (b = 0);
